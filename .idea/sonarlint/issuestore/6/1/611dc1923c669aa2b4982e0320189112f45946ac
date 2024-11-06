@@ -1,0 +1,20 @@
+
+R
+java:S49733"<Strings and Boxed types should be compared using "equals()".(è«€¨
+X
+java:S1854/"=Remove this useless assignment to local variable "arrayList".(©íöÿÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(›œâÃøÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(µˆœÑ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(›òŒØøÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Åó¥§
+I
+java:S1481/".Remove this unused "arrayList" local variable.(©íöÿÿÿÿÿ
+6
+java:S21291" Remove this "String" constructor(âÜ€­
+;
+java:S21292" Remove this "String" constructor(·»¼ùÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ûåóˆ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(äã–
+G
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
