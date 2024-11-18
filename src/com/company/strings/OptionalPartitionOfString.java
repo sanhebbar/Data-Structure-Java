@@ -18,8 +18,6 @@ public class OptionalPartitionOfString {
         }
     }
     public static void main(String[] args) {
-
-
         String s = "abacaba";
         optionalPartitionOfString(s);
     }

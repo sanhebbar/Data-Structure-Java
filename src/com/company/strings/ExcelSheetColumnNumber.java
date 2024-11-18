@@ -11,7 +11,6 @@ public class ExcelSheetColumnNumber {
         return result;
     }
     public static void main(String[] args) {
-
         System.out.println(titleToNumber("A"));   // Output: 1
         System.out.println(titleToNumber("AZ"));  // Output: 28
         System.out.println(titleToNumber("ZY"));
