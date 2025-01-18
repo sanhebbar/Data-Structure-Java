@@ -16,8 +16,6 @@ public class SecondMostRepeatedWord {
         //System.out.println(map);
         System.out.println(l.get(1));
 
-
-
     }
     public static void main(String[] args) {
         String s[] = {"aaa", "abc", "aaa", "ac", "de","abc","aaa","abc","aaa"};

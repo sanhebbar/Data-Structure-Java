@@ -1,9 +1,8 @@
-package designPattern;
+package company.designPattern;
 
 import com.company.designpattern.Singleton;
 
 public class SingletonClass {
-
 
     public static SingletonClass instance;
 
@@ -22,6 +21,5 @@ public class SingletonClass {
         SingletonClass singletonClass = new SingletonClass();
         singletonClass .getMsg();
     }
-
 
 }

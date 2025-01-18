@@ -7,6 +7,7 @@ import java.util.Map;
 
 public class MapIterator {
     public static void main(String[] args) {
+
         Map<Character, Integer> map = new HashMap<>();
         map.put('s',1);
         map.put('a',3);

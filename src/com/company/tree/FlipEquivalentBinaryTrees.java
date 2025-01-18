@@ -44,6 +44,5 @@ public class FlipEquivalentBinaryTrees {
         boolean result3 = flipFlop(n1, n2);
         System.out.println(result3);
 
-
     }
 }
