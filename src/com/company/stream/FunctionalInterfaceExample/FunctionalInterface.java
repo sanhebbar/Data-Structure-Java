@@ -1,6 +1,5 @@
-package com.company.stream;
+package com.company.stream.FunctionalInterfaceExample;
 
-import javax.xml.namespace.QName;
 import java.util.function.*;
 
 public class FunctionalInterface {
